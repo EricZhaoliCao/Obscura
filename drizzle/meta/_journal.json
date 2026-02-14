@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1768173588240,
+      "tag": "0000_free_quentin_quire",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1768173741068,
+      "tag": "0001_romantic_maestro",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1768175828507,
+      "tag": "0002_friendly_glorian",
+      "breakpoints": true
+    }
+  ]
+}
